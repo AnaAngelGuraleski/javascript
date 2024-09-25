@@ -11,8 +11,8 @@ let media = function(num4,num5,num6){
 }
 console.log(media(3,4,5));
 
-let num1 = parseInt(prompt('digite três valores para calcular a media'));
-let num2 = parseInt(prompt('digite três valores para calcular a media'));
-let num3 = parseInt(prompt('digite três valores para calcular a media'));
+let num1 = parseInt(prompt('digite valor 1'));
+let num2 = parseInt(prompt('digite valor 2'));
+let num3 = parseInt(prompt('digite valor 3'));
 
 document.write(media(num1,num2,num3));

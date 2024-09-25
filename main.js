@@ -10,5 +10,9 @@ let media = function(num4,num5,num6){
     return  (num4+num5+num6)/3;
 }
 console.log(media(3,4,5));
-let valor=parseInt(prompt('digite três valores para calcular a media'));
-document.write(valor)
+
+let num1 = parseInt(prompt('digite três valores para calcular a media'));
+let num2 = parseInt(prompt('digite três valores para calcular a media'));
+let num3 = parseInt(prompt('digite três valores para calcular a media'));
+
+document.write(media(num1,num2,num3));

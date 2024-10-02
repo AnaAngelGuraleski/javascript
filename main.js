@@ -17,3 +17,9 @@
 
 // document.write(media(num1,num2,num3));
 let Estados=['AC','AL','AM','AP','BA','ES','GO','MA','MT','MS','MG','MG','PA','PB','PR','PE','PI','RJ','RN','RO','RR','RS','SC','SP','SE','TO','DF']
+let i=0;
+while(i<5){
+console.log(i);
+i=i+1
+
+}

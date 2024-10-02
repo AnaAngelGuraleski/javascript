@@ -16,3 +16,4 @@
 // let num3 = parseInt(prompt('digite valor 3'));
 
 // document.write(media(num1,num2,num3));
+let Estados=['AC','AL','AM','AP','BA','ES','GO','MA','MT','MS','MG','MG','PA','PB','PR','PE','PI','RJ','RN','RO','RR','RS','SC','SP','SE','TO','DF']

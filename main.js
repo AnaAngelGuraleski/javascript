@@ -33,5 +33,5 @@ console.log('pode dirigir');
 
 }
 else{
-console.log('ilrgal dirigir')
+console.log('ilegal dirigir');
 }
